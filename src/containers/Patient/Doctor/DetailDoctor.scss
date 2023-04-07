@@ -1,0 +1,78 @@
+.doctor-detail-container {
+    //height: 500px;
+    //border: 1px solid red;
+    .path {
+        padding: 5px;
+        margin: 10px 150px;
+        color: #2cd3d3;
+        font-weight: bold;
+        font-family: SFD-Bold;
+        cursor: pointer;
+    }
+    .intro-doctor {
+        padding: 5px;
+        margin: 10px 150px;
+        display: flex;
+        gap: 15px;
+        box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+        border-radius: 8px;
+        border-bottom: none;
+        //height: 130px;
+        .content-left{
+            //width: 20%;
+            //border: 1px solid green;
+            
+            border-radius: 50%;
+            height: 120px    ;
+            width: 120px;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-color: #eee;
+            //margin: auto;
+            // padding-right: 15px;
+            
+        }
+        .content-right{
+            width: 80%;
+            //border: 1px solid blue;
+            display: flex;
+            flex-direction: column;
+            padding-left: 10px;
+
+            .up {
+                font-size: 20px;
+                font-weight: bold;
+            }
+            .down{
+                padding-top: 10px;
+            }
+        }
+    }
+    .schedule-doctor {
+        margin: 0 150px;
+        //height: 200px;
+        display: flex;
+        border-bottom: 1px solid #ccc;
+        
+        min-height: 260px;
+        .content-left {
+            border-right: 1px solid #eee;
+            width: 50%;
+            margin-bottom: 10px;
+        }
+
+        .content-right {
+            padding-top: 15px ;
+        }
+    }
+    .detail-infor-doctor{
+        padding: 15px 150px ;
+        border-bottom: 1px solid #ccc;
+        background-color: #f9f9f9;
+    }
+}
+
+.fb-comments {
+    padding: 0 150px;
+}

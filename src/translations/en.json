@@ -1,0 +1,177 @@
+{
+    "path": {
+        "home": "",
+        "doctor": "Doctor",
+        "specialty": "Medical specialty",
+        "clinic": "Clinics",
+        "handbook": "Handbook"
+    },
+    "homeheader": {
+        "specialty": "Medical specialty",
+        "searchdoctor": "Find a doctor by specialty",
+        "health-clinic": "Health clinics",
+        "select-hospital": "Choose a hospital, clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "package": "Checkup package",
+        "general-health": "General health check",
+        "support": "Support",
+        "welcome": "Welcome, ",
+        "login": "Login",
+        "handbook": "Handbook",
+        "search": "Medical history"
+    },
+    "homebanner": {
+        "title1": "MEDICAL PLATFORM",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "child1": "Specialist examination",
+        "child2": "Remote examination",
+        "child3": "General examination",
+        "child4": "Medical test",
+        "child5": "Mental health",
+        "child6": "Dental examination"
+    },
+    "homespecialty": {
+        "specialtypopular": "Popular specialties",
+        "more": "More"
+    },
+    "homefacility": {
+        "outstanding": "Outstanding medical facility",
+        "search": "Search",
+        "more-description": "Read more",
+        "hide": "Hide"
+    },
+    "homedoctor": {
+        "outstandingdoctor": "Outstanding Doctor",
+        "search": "Search"
+    },
+    "homehandbook": {
+        "handbook": "Handbook",
+        "all-handbook": "All handbooks"
+    },
+    "footer": {
+        "address": "Address: ",
+        "phone": "Phone number: ",
+        "email": "Email address: ",
+        "home-page": "Home page",
+        "intro": "Introduction",
+        "connection": "Connect with us"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users",
+            "manage-doctor": "Manage doctors",
+            "manage-admin": "Manage admin",
+            "crud": "CRUD user",
+            "crud-user": "Create/edit users",
+            "clinic": "Clinics",
+            "manage-clinic": "Manage clinics",
+            "specialty": "Specialties",
+            "manage-specialty": "Manage specialties",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+        },
+        "doctor": {
+            "manage-schedule": "Manage medical examination plan",
+            "manage-patient": "Manage patient examination"
+        }
+    },
+    "manage-user": {
+        "add": "Add new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "Name",
+        "last-name": "Surname",
+        "phone": "Phone Number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "image": "Avatar",
+        "save": "Save user",
+        "edit": "Save changes",
+        "upload-image": "Upload image"
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's appointment schedule",
+        "choose-doctor": "Choose a doctor",
+        "choose-date": "Choose a medical examination date",
+        "save": "Save selection"
+    },
+    "manage-patient": {
+        "title": "Manage medical examination patients",
+        "choose-date": "Select examination date",
+        "stt": "STT",
+        "time": "Time",
+        "name": "First and last name",
+        "gender": "Gender",
+        "address": "Address",
+        "actions": "Actions",
+        "confirm": "Confirm"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "There are no appointments scheduled for today!",
+            "choose": "Choose",
+            "free-book": "and book (booking free 0 VND)",
+            "address-clinic": "Address of examination",
+            "price": "Price of examination: ",
+            "show-more": "View details",
+            "hidden-infor": "Hide information",
+            "payment": "The clinic can pay in the following forms: "
+        },
+        "modal-booking": {
+            "title": "Information to book an appointment",
+            "name": "First and last name",
+            "phone": "Phone number",
+            "email": "Email address",
+            "address": "Address",
+            "reason": "Reason for medical examination",
+            "birthday": "Date of birth",
+            "gender": "Gender",
+            "price": "Price of examination: ",
+            "save": "Save information",
+            "cancel": "Cancel",
+            "more": "See more"
+        },
+        "verify-booking": {
+            "loading": "Loading data.....",
+            "verify-success": "Verification successful",
+            "confirmed-or-exist": "The appointment is confirmed or does not exist",
+            "back": "Back to home page"
+        },
+        "search-doctor": {
+            "search-doctor": "Search for a doctor"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Add doctor's information",
+            "choose-doctor": "Choose a doctor",
+            "intro-doctor": "Introductory information",
+            "price": "Select price",
+            "payment-method": "Select payment method",
+            "province": "Choose a province",
+            "name-clinic": "Name of hospital/clinic",
+            "address-clinic": "Address of hospital/clinic",
+            "note": "Note",
+            "save": "Save information",
+            "specialty": "Select a specialty",
+            "clinic": "Select clinic"
+        }
+    },
+    "history": {
+        "title": "View medical history",
+        "tutorial": "Instructions: To look up medical history please enter email",
+        "failed": "Email is incorrect",
+        "true": "Here is your medical history",
+        "email": "Email address",
+        "confirm": "Confirm",
+        "stt": "STT",
+        "namedoctor": "Doctor's name",
+        "date": "Date of examination",
+        "time": "Time",
+        "diagnosis": "The doctor's diagnosis"
+    }
+}
